@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "FMS",
-    "slug": "FMS",
+    "slug": "fms",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "702d59f7-554b-4f4d-a33e-ad48cf26df63"
+      }
+    },
+    "owner": "lduke"
   }
 }
